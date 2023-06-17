@@ -1,0 +1,5 @@
+.idea
+model-files*
+venvwsl
+codegpt_checkpoint
+models/__pycache__*

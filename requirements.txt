@@ -1,0 +1,4 @@
+transformers
+Levenshtein
+scipy
+cliffs_delta
